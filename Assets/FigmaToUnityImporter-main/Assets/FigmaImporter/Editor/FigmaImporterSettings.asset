@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad400953b60bd4f46ad225a4161e2df2, type: 3}
+  m_Name: FigmaImporterSettings
+  m_EditorClassIdentifier: 
+  clientCode: 4PDBIp0MVDkP6mc2nj2uXSBmN
+  state: 1258058467
+  token: figu_GVBf6QZe4hbTi5_Ek088GciaoGWCOxNBgGfWLJGO
+  url: https://www.figma.com/file/0rg3481S0BBwhvwPmZqDyF/VehicleHMI?node-id=320%3A267&t=BDJZKVTXqTTqbTGO-4
+  rendersPath: FigmaImporter/Renders
